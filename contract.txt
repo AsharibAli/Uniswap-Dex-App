@@ -1,0 +1,10 @@
+Token deployed to: 0x7827E50Ee80966fB52Da7f08E76774f277006641
+Exchange deployed to: 0x8b83470Ae636525296715cf0F270128D1e6558ba
+The contract 0x7827E50Ee80966fB52Da7f08E76774f277006641 has already been verified. 
+https://goerli.etherscan.io/address/0x7827E50Ee80966fB52Da7f08E76774f277006641#code
+Successfully submitted source code for contract
+contracts/Exchange.sol:Exchange at 0x8b83470Ae636525296715cf0F270128D1e6558ba
+for verification on the block explorer. Waiting for verification result...   
+
+Successfully verified contract Exchange on the block explorer.
+https://goerli.etherscan.io/address/0x8b83470Ae636525296715cf0F270128D1e6558ba#code
